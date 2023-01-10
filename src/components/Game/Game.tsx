@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Board } from "../Board/Board";
+import Board from "../Board";
 import { RestartButton } from "./RestartButton";
 import { StatusBar } from "./StatusBar";
 
